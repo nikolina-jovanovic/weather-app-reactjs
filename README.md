@@ -4,11 +4,11 @@ WEATHER APP - CURRENT WEATHER AND 5-DAY FORECAST
 
 *For making this app,i used:
 
--Weather API - https://openweathermap.org/api
+-Weather API - OpenWeatherMap
 
 -Axios for fetching data from an api
 
--Weather Icons from Font Awesome - https://fontawesome.com/
+-Weather Icons from Font Awesome
 
 -React Hooks: useState, useEffect 
 
