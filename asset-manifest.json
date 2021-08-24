@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/%7Bweather-app-reactjs%7D/static/css/main.edc0fecc.chunk.css",
+    "main.js": "/%7Bweather-app-reactjs%7D/static/js/main.3485a8a7.chunk.js",
+    "main.js.map": "/%7Bweather-app-reactjs%7D/static/js/main.3485a8a7.chunk.js.map",
+    "runtime-main.js": "/%7Bweather-app-reactjs%7D/static/js/runtime-main.de393729.js",
+    "runtime-main.js.map": "/%7Bweather-app-reactjs%7D/static/js/runtime-main.de393729.js.map",
+    "static/js/2.6770030f.chunk.js": "/%7Bweather-app-reactjs%7D/static/js/2.6770030f.chunk.js",
+    "static/js/2.6770030f.chunk.js.map": "/%7Bweather-app-reactjs%7D/static/js/2.6770030f.chunk.js.map",
+    "index.html": "/%7Bweather-app-reactjs%7D/index.html",
+    "static/css/main.edc0fecc.chunk.css.map": "/%7Bweather-app-reactjs%7D/static/css/main.edc0fecc.chunk.css.map",
+    "static/js/2.6770030f.chunk.js.LICENSE.txt": "/%7Bweather-app-reactjs%7D/static/js/2.6770030f.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/%7Bweather-app-reactjs%7D/static/media/wp4Blurred.c8c26131.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de393729.js",
+    "static/js/2.6770030f.chunk.js",
+    "static/css/main.edc0fecc.chunk.css",
+    "static/js/main.3485a8a7.chunk.js"
+  ]
+}
