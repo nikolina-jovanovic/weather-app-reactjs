@@ -4,6 +4,8 @@
 Down below there are 5 cards showing 5 next days with info (icon, date,current temperature,minimal and maximal temperature and description).
 Up above there is search bar where user can type desired city by pressing 'Enter'. 
 
+![weather-app](https://user-images.githubusercontent.com/85742865/133160857-326bbaa9-fea0-43d5-9c98-e274ac6be4ba.png)
+
 *For making this app,i used:
 - Weather API - OpenWeatherMap
 - Axios for fetching data from an api
